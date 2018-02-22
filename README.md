@@ -28,8 +28,9 @@ The UCI Iris dataset is one of the most common and well-known datasets for pract
 * F1 scores (precsion and recall)
 
 ## Results: 
-Using the Support Vector Machine algorithm, I was able to get 93.33 % accuracy in the classification of iris class
+Using the Support Vector Machine algorithm, I was able to get 99.2 % accuracy in the classification of iris class
 
 
+* Check out the [jupyter notebook](https://github.com/adonovan7/Iris_Classification/blob/master/Iris_ML.ipynb) for a clean presentation of code and results
 
 
